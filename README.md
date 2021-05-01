@@ -2,7 +2,7 @@
 This project is a python version of nmap that will scan the ports on your machine and tell you which are open. 
 
 # Project Title
-Miniature version of Nmap
+Miniature version of the Nmap program.
 
 # Files used
 portscanner.py
